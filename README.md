@@ -5,11 +5,21 @@ Este projeto é um mini sistema bancário em Java, que permite a criação de co
 
 O sistema funciona via terminal/console, oferecendo um menu interativo para o usuário.
 
+
+
 ⚙️ Funcionalidades
-Funcionalidade	Descrição
+
+Funcionalidade	|  Descrição
+
 📝 Criar Conta	Número, agência, nome do cliente, saldo inicial e senha individual
+
 💵 Depositar	Adicionar valores à conta
+
 🏦 Sacar	Retirar valores da conta (exige senha)
+
 🔄 Transferir	Transferir valores entre contas (exige senha)
+
 👀 Consultar Saldo	Visualizar saldo da conta (exige senha)
+
 ⚠️ Mensagens de Erro	Tratamento para saldo insuficiente, senha incorreta ou valores inválidos
+
